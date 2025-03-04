@@ -3,7 +3,7 @@ Data-Professional-Survey-Analysis
 
 -Dataset: DataProfessional.
 
--Project_Name: Survey on Data professionals.
+-Project_Name: Data professionals survey
 ![Data Professional survey_page-0001](https://github.com/user-attachments/assets/0f33cb0c-6b0f-42e0-ba91-aedfb68e9115)
 Conclusion:
 Here is a summary of the key points from the "Data Professional Survey":
